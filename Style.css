@@ -1,0 +1,96 @@
+body{
+	background-color:#7facd6;
+	color:#551a8b;
+	font-family: Monospace;
+	width:80%;
+	margin:auto;
+	padding:20px;
+	text-align:center;
+}
+a{
+	text-decoration:none;
+	color:#551a8b;
+	margin:5%;
+	font-weight:600;
+	font-size: 12pt;
+
+
+}
+a:hover{
+	color:#000;
+}
+a:visitied{
+	color:#551a8b;
+}
+.menu{
+	
+	border-radius:15px;
+	border:3px black solid;
+	width: 80%;
+	margin:auto;
+	
+}
+
+.button{
+	position:absolute;
+	top:10px;
+	right:10px;
+}
+.start_survey{
+	position:center;
+
+}
+.toptext a{
+	top:10px;
+	right:10px;
+	background-color:#f0b0bc;
+	color:black;
+}
+.button2{
+	background-color:#f0b0bc;	
+}
+.questions li{
+	text-align:left;
+	list-style:square;
+	list-style:none;
+}
+.questions button{
+	background-color:#f0b0bc;
+	margin:3px;
+}
+.questions h3{
+	color:#551a8b;
+}
+.questions h2{
+	color:#551a8b;
+}
+.toptext h2{
+	color:#551a8b;
+}
+.checklist{
+	text-align:left;
+	border:3px black solid;
+	width: 15%;
+	margin:auto;
+}
+.calendar{
+	padding:150px;
+	text-weight:200px;
+	position:center;
+}
+.box{
+	text-align:left;
+	padding-left:20px;
+	border:3px black solid;
+	width: 15%;
+	margin:auto;
+	
+}
+.back{
+	position:absolute;
+	top:20px;
+	left:20px;
+}
+.login{
+	position:center;
+}
